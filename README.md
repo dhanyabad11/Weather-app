@@ -1,6 +1,6 @@
 # Weather-app
 weather app using open weather api
-https://dhanyabad11.github.io/Weather-app/
+https://roadmap.sh/projects/weather-app
 
 
 
